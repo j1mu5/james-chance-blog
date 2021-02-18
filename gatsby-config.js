@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `James Chance`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `James Chance`,
+      summary: `Computing and IT student at Open University. Husband, father and Leicester Tigers fan.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `My personal blog covering University, web developement, game development and anything else I can think of.`,
+    siteUrl: `https://jameschance.co.uk`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `j1mu5`,
     },
   },
   plugins: [
