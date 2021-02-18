@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Hello World
+title: Hello World!
 date: 2020-07-11T17:32:18.176Z
 ---
 Hello world…again is what I should be saying. After a failed purely JavaScript blog trial, I have gone back to the original idea of just using WordPress
