@@ -5,7 +5,7 @@ module.exports = {
       name: `James Chance`,
       summary: `Computing and IT student at Open University. Husband, father and Leicester Tigers fan.`,
     },
-    description: `My personal blog covering University, web developement, game development and anything else I can think of.`,
+    description: `My personal blog covering University, web development, game development and anything else I can think of.`,
     siteUrl: `https://jameschance.co.uk`,
     social: {
       twitter: `j1mu5`,
