@@ -6,9 +6,9 @@ module.exports = {
       summary: `Computing and IT student at Open University. Husband, father and Leicester Tigers fan.`,
     },
     description: `My personal blog covering University, web development, game development and anything else I can think of.`,
-    siteUrl: `https://jameschance.co.uk`,
+    siteUrl: `https://jdjc.dev`,
     social: {
-      twitter: `j1mu5`,
+      twitter: `jdjchance`,
     },
   },
   plugins: [
