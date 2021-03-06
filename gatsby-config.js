@@ -3,13 +3,11 @@ module.exports = {
     title: `James Chance`,
     author: {
       name: `James Chance`,
-      summary: `Computing and IT student at Open University. Husband, father and Leicester Tigers fan.`,
+      summary: `Husband, Father and Computing and IT student at Open University. Huge Leicester Tigers fan.`,
     },
-    description: `My personal blog covering University, web development, game development and anything else I can think of.`,
+    description: `My personal blog covering University, web development and anything else I can think of.`,
     siteUrl: `https://jdjc.dev`,
-    social: {
-      twitter: `jdjchance`,
-    },
+
   },
   plugins: [
     {
@@ -66,12 +64,9 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/default.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
   ],
 }
