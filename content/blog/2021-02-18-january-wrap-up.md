@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: January Wrap Up
+title: January Round Up
 date: 2021-02-18T18:51:36.630Z
 ---
 Wow that month went by really fast and now I'm a little bit late posting this. I have been really busy this month with lots of things happening so I won't hang about lets just get stuck in.
